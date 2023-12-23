@@ -3,7 +3,6 @@ using namespace std;
 string decode(string &s, map<string, char> &m)
 {
     stringstream ss(s);
-    cout << s << endl;
     string sentence = "";
     string token;
     vector<string> tokens;
@@ -38,7 +37,7 @@ string encode(string &s, map<char, string> &m)
 map<char, string> getCharStringMap()
 {
     map<char, string> m;
-    ifstream inp("letters.txt");
+    ifstream inp("encode.txt");
     if (!inp.is_open())
     {
         cerr << "error opening the file" << endl;
