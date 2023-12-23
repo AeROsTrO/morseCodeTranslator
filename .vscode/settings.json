@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.scss": "scss",
+        "*.css": "css",
+        "*.js": "javascriptreact",
+        "string": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

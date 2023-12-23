@@ -1,0 +1,1 @@
+{"name":"Local: translate","url":"d:\\morse-code-translator\\translate.cpp","tests":[{"id":1703343295304,"input":"... --- ...","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\morse-code-translator\\translate.cpp","group":"local","local":true}
