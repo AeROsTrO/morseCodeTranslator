@@ -1,1 +1,1 @@
-read About
+please read About
